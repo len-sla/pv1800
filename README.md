@@ -30,10 +30,7 @@ By combining the strengths of Home Assistant and an ESP32 with an RS485 module, 
 
 
 ---
-<p align="center">
-![###  ](real-or-not.JPG)
-</p>
-
+![](mqtt.jpg)
 ## **Utilizing Domoticz for Logs and RS485 Device Data**
 
 Domoticz, a popular home automation software, presents compelling reasons for programmers seeking to collect logs and RS485 device data through programming.
@@ -52,9 +49,7 @@ By harnessing the features of Domoticz, programmers can efficiently develop prog
 
 
 ---
-<p align="center">
-![](mqtt.jpg)
-</p>
+
 
 
 ![](mqtt.jpg)
