@@ -4,10 +4,7 @@
 
 ![](rs485a.gif)
 ---
-<p align="center">
-![###  ](real-or-not.JPG)o">
-</p>
-
+![](tasmota.jpg)
 ## **Efficient RS485 Device Control with Home Assistant and ESP32**
 
 Combining Home Assistant with an ESP32 equipped with an RS485 module offers a potent programming solution for effective RS485 device control.
