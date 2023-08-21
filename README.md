@@ -53,9 +53,9 @@ By harnessing the features of Domoticz, programmers can efficiently develop prog
 
 ---
 <p align="center">
-![###  ](mqtt.jpg)
+![](mqtt.jpg)
 </p>
-
+![](mqtt.jpg)
 ## **Boosting Power and Flexibility with MQTT Integration**
 
 The integration of MQTT (Message Queuing Telemetry Transport) significantly enhances the capabilities of both Home Assistant and Domoticz in terms of power and flexibility.
