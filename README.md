@@ -5,8 +5,7 @@
 ![](rs485a.gif)
 ---
 <p align="center">
-<img src="home_assistant_logo_image_link_here" alt="Home Assistant Logo"> 
-<img src="esp32_logo_image_link_here" alt="ESP32 Logo">
+![###  ](real-or-not.JPG)o">
 </p>
 
 ## **Efficient RS485 Device Control with Home Assistant and ESP32**
