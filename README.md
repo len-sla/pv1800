@@ -54,7 +54,7 @@ By harnessing the features of Domoticz, programmers can efficiently develop prog
 
 ---
 <p align="center">
-<img src="[mqtt-logo-transp.svg)" alt="MQTT Logo">
+<img src="[mqtt-logo-transp.svg]" alt="MQTT Logo">
 </p>
 
 ## **Boosting Power and Flexibility with MQTT Integration**
