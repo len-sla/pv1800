@@ -77,12 +77,6 @@ By incorporating MQTT into the architecture of Home Assistant and Domoticz, prog
 
 
 
-
-
-This will be my prevailing approach not installing applications in the system if possible to use the from container 
-similarly with 
-
-
 ---
 
 </p></p></p>
