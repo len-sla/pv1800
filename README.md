@@ -53,7 +53,7 @@ By harnessing the features of Domoticz, programmers can efficiently develop prog
 
 ---
 <p align="center">
-![###  ](real-or-not.JPG)
+![###  ](mqtt.jpg)
 </p>
 
 ## **Boosting Power and Flexibility with MQTT Integration**
