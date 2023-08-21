@@ -6,7 +6,7 @@
 ---
 
 
-![](tasmota.jpg)
+
 
 ## **Efficient RS485 Device Control with Home Assistant and ESP32**
 
@@ -31,6 +31,7 @@ By combining the strengths of Home Assistant and an ESP32 with an RS485 module, 
 
 ---
 ![](domoticz.jpg)
+![](tasmota.jpg)
 ## **Utilizing Domoticz for Logs and RS485 Device Data**
 
 Domoticz, a popular home automation software, presents compelling reasons for programmers seeking to collect logs and RS485 device data through programming.
