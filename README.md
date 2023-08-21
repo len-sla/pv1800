@@ -178,7 +178,7 @@ on_state:
 ```
 </pre>
 ### PV1800 register addreses
-[excel file with register addreses](netshoot.png)
+[excel file with register addreses](PV1800.xlsx)
 
 
 ### Contact
