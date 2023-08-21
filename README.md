@@ -21,10 +21,10 @@ Combining Home Assistant with an ESP32 equipped with an RS485 module offers a po
 
 By combining the strengths of Home Assistant and an ESP32 with an RS485 module, programmers can develop a comprehensive control solution, translating commands and achieving seamless interaction with RS485 devices while benefiting from real-time monitoring and flexible automation capabilities.
 
----
 
 
----
+
+
 
 
 
