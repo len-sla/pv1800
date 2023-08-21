@@ -32,7 +32,7 @@ By combining the strengths of Home Assistant and an ESP32 with an RS485 module, 
 
 ---
 <p align="center">
-![](rs485a.gif)
+![###  ](real-or-not.JPG)
 </p>
 
 ## **Utilizing Domoticz for Logs and RS485 Device Data**
@@ -54,7 +54,7 @@ By harnessing the features of Domoticz, programmers can efficiently develop prog
 
 ---
 <p align="center">
-![](rs485a.gif)
+![###  ](real-or-not.JPG)
 </p>
 
 ## **Boosting Power and Flexibility with MQTT Integration**
