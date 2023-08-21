@@ -1,0 +1,62 @@
+uart:
+  id: mod_bus
+  rx_pin: GPIO16
+  tx_pin: GPIO17
+  baud_rate: 19200
+  stop_bits: 1
+
+modbus:
+  send_wait_time: 300ms
+  id: modbus2
+
+modbus_controller:
+  - id: pv1800
+    ## the Modbus device addr
+    address: 0x4
+    modbus_id: modbus2
+    command_throttle: 0ms
+    setup_priority: -10
+
+sensor:
+  - platform: modbus_controller
+    modbus_controller_id: pv1800
+    name: "PV1800 Work state"
+    id: pv1800_work_state
+    register_type: holding
+    address: 0x6271
+    value_type: U_WORD
+
+  - platform: modbus_controller
+    modbus_controller_id: pv1800
+    name: "PV1800 Battery voltage"
+    id: pv1800_battery_voltage
+    register_type: holding
+    address: 0x6275
+    unit_of_measurement: "V"
+    value_type: U_WORD
+    accuracy_decimals: 1
+    filters:
+      - multiply: 0.1
+  - platform: modbus_controller
+    modbus_controller_id: pv1800
+    name: "PV1800 Inverter voltage"
+    id: pv1800_inverter_voltage
+    register_type: holding
+    address: 0x6276
+    unit_of_measurement: "V"
+    value_type: U_WORD
+    accuracy_decimals: 1
+    filters:
+      - multiply: 0.1
+  - platform: modbus_controller
+    modbus_controller_id: pv1800
+    name: "PV1800 Grid voltage"
+    id: pv1800_grid_voltage
+    register_type: holding
+    address: 0x6277
+    unit_of_measurement: "V"
+    value_type: U_WORD
+    accuracy_decimals: 1
+    filters:
+      - multiply: 0.1
+    
