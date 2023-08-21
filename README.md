@@ -30,6 +30,7 @@ By combining the strengths of Home Assistant and an ESP32 with an RS485 module, 
 
 
 ---
+![](home.jpg)
 ![](domoticz.jpg)
 
 ## **Utilizing Domoticz for Logs and RS485 Device Data**
