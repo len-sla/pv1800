@@ -1,6 +1,5 @@
-## Project Name
 
-![PV1800 inverter, ESP32, YAML, http, mqtt, HomeAsistant, Domoticz and RS485]
+## PV1800 inverter, ESP32, YAML, http, mqtt, HomeAsistant, Domoticz and RS485
 ---
 <p align="center">
 <img src="home_assistant_logo_image_link_here" alt="Home Assistant Logo"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
