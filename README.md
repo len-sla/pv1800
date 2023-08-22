@@ -76,7 +76,6 @@ By incorporating MQTT into the architecture of Home Assistant and Domoticz, prog
 
 
 For the Domoticz to understand/receive MQTT messages ESP32  needs to create and send format  below
-
 ```
 mosquitto_pub -h mqttbroker -m '{ "idx" : 1, "nvalue" : 0, "svalue" : "27.0" }' -t 'domoticz/in'
 ```
