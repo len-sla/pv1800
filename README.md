@@ -55,6 +55,7 @@ By harnessing the features of Domoticz, programmers can efficiently develop prog
 
 
 ![](mqtt.jpg)
+![](tasmota.jpg)
 ## **Boosting Power and Flexibility with MQTT Integration**
 
 The integration of MQTT (Message Queuing Telemetry Transport) significantly enhances the capabilities of both Home Assistant and Domoticz in terms of power and flexibility.
