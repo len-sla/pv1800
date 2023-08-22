@@ -186,6 +186,8 @@ on_state:
 </pre>
 ### PV1800 register addreses
 [excel file with register addreses](PV1800.xlsx)
+First step and idea taken from
+https://forum.arturhome.pl/t/inwerter-volt-polska-sinus-pro-ultra/6343
 
 ![](tasmota.gif)
 ### Contact
