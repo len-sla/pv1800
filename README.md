@@ -80,9 +80,10 @@ For the Domoticz to understand/receive MQTT messages ESP32  needs to create and 
 mosquitto_pub -h mqttbroker -m '{ "idx" : 1, "nvalue" : 0, "svalue" : "27.0" }' -t 'domoticz/in'
 ```
 Of course when you have user and password for mqtt it needs to be aprpiatelly modified
-Nice explanation is on webpage https://sancla.com/domoticz/mqtt-for-domoticz/
 In this releasee IDx were fixed but if you want to generate them automatically then another piece written in python is required which will 
 generate in domoticz sql appropiate records  so you dont need to do that manually
+
+Nice explanation is on webpage https://sancla.com/domoticz/mqtt-for-domoticz/
 ---
 
 </p></p></p>
