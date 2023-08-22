@@ -30,8 +30,9 @@ By combining the strengths of Home Assistant and an ESP32 with an RS485 module, 
 
 
 ---
-![](home.jpg)
 ![](domoticz.jpg)
+![](home.jpg)
+
 
 ## **Utilizing Domoticz for Logs and RS485 Device Data**
 
@@ -53,9 +54,9 @@ By harnessing the features of Domoticz, programmers can efficiently develop prog
 ---
 
 
-
-![](mqtt.jpg)
 ![](tasmota.jpg)
+![](mqtt.jpg)
+
 ## **Boosting Power and Flexibility with MQTT Integration**
 
 The integration of MQTT (Message Queuing Telemetry Transport) significantly enhances the capabilities of both Home Assistant and Domoticz in terms of power and flexibility.
