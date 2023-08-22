@@ -75,11 +75,12 @@ By incorporating MQTT into the architecture of Home Assistant and Domoticz, prog
 ---
 
 
-For the Domoticz to understand/receive MQTT messages it needs to be sent in format 
+For the Domoticz to understand/receive MQTT messages ESP32  needs to create and send format  below
 
 ```
-mosquitto_pub -h localhost -m '{ "idx" : 1, "nvalue" : 0, "svalue" : "27.0" }' -t 'domoticz/in'
+mosquitto_pub -h mqtthost -m '{ "idx" : 1, "nvalue" : 0, "svalue" : "27.0" }' -t 'domoticz/in'
 ```
+Of course when you have user and password for mqtt it needs to be aprpiatelly modified
 Nice explanation is on webpage https://sancla.com/domoticz/mqtt-for-domoticz/
 
 ---
