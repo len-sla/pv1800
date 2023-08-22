@@ -187,7 +187,7 @@ on_state:
 ### PV1800 register addreses
 [excel file with register addreses](PV1800.xlsx)
 
-
+![](tasmota.gif)
 ### Contact
 Created by: _lencz.sla@gmail.com_
 
