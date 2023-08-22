@@ -75,9 +75,12 @@ By incorporating MQTT into the architecture of Home Assistant and Domoticz, prog
 ---
 
 
+For the Domoticz to understand/receive MQTT messages it needs to be sent in format 
 
-
-
+```
+mosquitto_pub -h localhost -m '{ "idx" : 1, "nvalue" : 0, "svalue" : "27.0" }' -t 'domoticz/in'
+```
+Nice explanation is on webpage https://sancla.com/domoticz/mqtt-for-domoticz/
 
 ---
 
