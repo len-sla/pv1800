@@ -81,8 +81,7 @@ mosquitto_pub -h mqttbroker -m '{ "idx" : 1, "nvalue" : 0, "svalue" : "27.0" }' 
 ```
 Of course when you have user and password for mqtt it needs to be aprpiatelly modified
 In this releasee IDx were fixed but if you want to generate them automatically then another piece written in python is required which will 
-generate in domoticz sql appropiate records  so you dont need to do that manually
-
+generate in domoticz sql appropiate records  so you dont need to do that manually. If you want YAML code or more information just send me short email  _lencz.sla@gmail.com_
 ### Nice explanation is on webpage https://sancla.com/domoticz/mqtt-for-domoticz/
 ---
 
